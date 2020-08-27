@@ -2956,7 +2956,7 @@ h1.title {
   height: 100%;
 }
 code {
-  font-family: 'Rubik', 'Microsoft Yahei', 'WenQuanYi Micro Hei', sans-serif !important;
+  font-family: 'Lora', serif;
   background: rgba(99,99,99,0.07);
   background: #b2fefa;
   background: -webkit-linear-gradient(to right, var(--code-gradient-light), var(--code-gradient-dark));
@@ -2969,7 +2969,7 @@ code {
   opacity: 0.9;
 }
 pre {
-  font-family: 'Rubik', 'Microsoft Yahei', 'WenQuanYi Micro Hei', sans-serif !important;
+  font-family: 'Lora', serif;
   margin: 2em 0;
 }
 pre .comment {
